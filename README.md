@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on software/game modding & design.
 - 🌱 I’m currently learning how to develop games.
-- 📫 How to reach me: mulverin3@gmail.com -or- MulverineX#0001 on Discord
+- 📫 How to reach me: mulverin3@gmail.com
 
 [![AA's github stats](https://github-readme-stats-umber.vercel.app/api?username=mulverinex&show_icons=true&theme=dark)](#)\
 [![View Counter](https://komarev.com/ghpvc/?username=MulverineX)](#)
