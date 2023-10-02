@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 [![View Counter](https://komarev.com/ghpvc/?username=MulverineX)](#)
 
 ### Other Stuff
+Trakt
 
 [<img src="https://trakt-widgets.vercel.app/MulverineX/profile/poster?language=en" width="20%" >](https://trakt.tv/users/mulverinex)
