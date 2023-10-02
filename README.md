@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mulverin3@gmail.com
 
 [![AA's github stats](https://github-readme-stats-umber.vercel.app/api?username=mulverinex&show_icons=true&theme=dark)](#)\
+
 [![View Counter](https://komarev.com/ghpvc/?username=MulverineX)](#)
+
+### Other Stuff
+
+[<img src="https://trakt-widgets.vercel.app/MulverineX/profile/poster?language=en" width="20%" >](https://trakt.tv/users/mulverinex)
